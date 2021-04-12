@@ -1,0 +1,50 @@
+[
+    {
+        "title":"ABOUT",
+        "links":[
+                "How Airbnb works",
+                "Newsroom",
+                "Investors",
+                "Airbnb plus",
+                "Airbnb Luxe",
+                "Hotel Tonight",
+                "Airbnb for work",
+                "Made possible by Hoof",
+                "Careers"
+        ]
+    },
+    {
+        "title":"COMMUNITY",
+        "links":[
+            "Diversity & Belonging",
+            "Against Discrimination",
+            "Accessibility",
+            "Airbnb Associates",
+            "Frontline Statys",
+            "Guest Referrals",
+            "gift Cards",
+            "Airbnb.org"
+        ]
+    },
+    {
+        "title":"Host",
+        "links":[
+            "Host your home",
+            "Host an Online Experience",
+            "Host an Experience",
+            "Responsible hosting",
+            "Resource Center",
+            "Community Center"
+        ]
+    },
+    {
+        "title":"SUPPORT",
+        "links":[
+            "Our COVID-19 response",
+            "Help Center",
+            "Cancellation options",
+            "Neighborhood Support",
+            "Trust & Safety"
+        ]
+    }
+]

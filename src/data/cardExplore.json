@@ -1,0 +1,42 @@
+[
+    {
+        "image":"https://a0.muscache.com/im/pictures/f98fbb2e-9e10-4514-b4a7-02c467e1da03.jpg?im_q=medq&im_w=240",
+        "place":"Kota Kinabalu",
+        "distance": "15 minute drive"
+    },
+    {
+        "image":"https://a0.muscache.com/im/pictures/3369e34a-44bf-4e15-9892-330f97031d42.jpg?im_q=medq&im_w=240",
+        "place":"Ranau",
+        "distance": "2 hour drive"
+    },
+    {
+        "image":"https://a0.muscache.com/im/pictures/105b8160-1109-4678-b8aa-367ea9faebea.jpg?im_q=medq&im_w=240",
+        "place":"kudat",
+        "distance": "3 hour drive"
+    },
+    {
+        "image":"https://a0.muscache.com/im/pictures/558a403a-aeed-4829-83a6-c9b0ccf21866.jpg?im_q=medq&im_w=240",
+        "place":"Kota Belud",
+        "distance": "1 hour drive"
+    },
+    {
+        "image":"https://a0.muscache.com/im/pictures/f3ebcc73-30b2-469f-b6ba-0578fdaaa649.jpg?im_q=medq&im_w=240",
+        "place":"Sandakan",
+        "distance": "5 hour drive"
+    },
+    {
+        "image":"https://a0.muscache.com/im/pictures/847cfb7f-788d-42dc-9148-f375348dde76.jpg?im_q=medq&im_w=240",
+        "place":"Tawau",
+        "distance": "10 hour drive"
+    },
+    {
+        "image":"https://a0.muscache.com/im/pictures/bd549da5-ecdd-4642-9a4c-4943c9c8cf28.jpg?im_q=medq&im_w=240",
+        "place":"Semporna",
+        "distance": "7.5 hour drive"
+    },
+    {
+        "image":"https://a0.muscache.com/im/pictures/7a0735b6-b341-4d2c-a0ab-8fa01d1373fb.jpg?im_q=medq&im_w=240",
+        "place":"Papar",
+        "distance": "45 minute drive"
+    }
+]
